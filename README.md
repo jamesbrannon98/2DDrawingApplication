@@ -1,7 +1,7 @@
 This is a 2D drawing application written with Java.
 
 When using the application, the user is able to draw pictures using rectangles, circles, and lines.
-The user has the ability to fill in the shape with a color, choose and second color and fill in the shape with a gradient,
+The user has the ability to fill in the shape with a color, choose a second color and fill in the shape with a gradient,
 and have the border of the shape be dashed lines. Furthermore, the user also has the ability to alter dash length and line width
 while being given the option to undo the last drawing or clear the board entirely.
 
